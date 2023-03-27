@@ -1,10 +1,4 @@
-<h1 align="center"> DPText-DETR: Towards Better Scene Text Detection with Dynamic Points in Transformer </h1> 
-
-<p align="center">
-<a href="https://arxiv.org/pdf/2207.04491v2.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
-<a href="https://paperswithcode.com/sota/scene-text-detection-on-total-text?p=dptext-detr-towards-better-scene-text"><img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dptext-detr-towards-better-scene-text/scene-text-detection-on-total-text"></a>
-<a href="https://paperswithcode.com/sota/scene-text-detection-on-scut-ctw1500?p=dptext-detr-towards-better-scene-text"><img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dptext-detr-towards-better-scene-text/scene-text-detection-on-scut-ctw1500"></a>
-</p>
+<h1 align="center"> Text-Removal: Unet Mask dedection </h1> 
 
 <p align="center">
   <a href="#Introduction">Introduction</a> |
