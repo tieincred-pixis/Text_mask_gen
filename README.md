@@ -12,9 +12,10 @@ pip install torch==1.9.1+cu111 torchvision==0.10.1+cu111 -f https://download.pyt
 pip install opencv-python scipy timm shapely albumentations Polygon3
 python -m pip install detectron2 -f https://dl.fbaipublicfiles.com/detectron2/wheels/cu111/torch1.9/index.html
 pip install setuptools==59.5.0
-git clone https://github.com/ymy-k/Text_mask_gen.git
+git clone https://github.com/tieincred-pixis/Text_mask_gen.git
 cd Text_mask_gen/TextRem
 python setup.py build develop
+pip install segmentation_models_pytorch
 ```
 
 Text-Rem directory:
